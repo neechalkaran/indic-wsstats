@@ -141,8 +141,8 @@ siteData= {
                         "index": 252
                 },
                 "category": {
-                        "Without_text": "உரை_இல்லாமல்",
-                        "Not_proofread": "மெய்ப்பு_பார்க்கப்படாதவை",
+                        "Without_text": "உரை_இல்லாதவை",
+                        "Not_proofread": "மெய்ப்புப்_பார்க்கப்படாதவை",
                         "Problematic": "சிக்கலானவை",
                         "Proofread": "மெய்ப்புப்_பார்க்கப்பட்டவை",
                         "Validated": "சரிபார்க்கப்பட்டவை"
